@@ -16,4 +16,3 @@ params, params_covariance = optimize.curve_fit(test_func, x_data, y_data, p0=[2,
 
 # Print the results
 print(params)
-:wq
